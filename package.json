@@ -2,6 +2,9 @@
   "name": "techshop",
   "version": "1.0.0",
   "description": "shopping cart app",
+  "engines": {
+    "node": "14.17.0"
+  },
   "main": "server.js",
   "type": "module",
   "scripts": {
