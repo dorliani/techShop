@@ -10,7 +10,7 @@ const Product = ({ product }) => {
         <Card.Img
           src={product.image}
           variant='top'
-          style={{ height: '28vh' }}
+          style={{ height: '26vh' }}
         />
       </Link>
 
